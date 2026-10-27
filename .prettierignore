@@ -1,0 +1,8 @@
+node_modules/
+.expo/
+dist/
+coverage/
+package-lock.json
+*.md
+.claude/skills/react-native-best-practices/
+skills-lock.json
